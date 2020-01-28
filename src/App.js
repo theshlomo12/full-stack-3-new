@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-
+// 
   function generateRandomColor()
 {
     var randomColor = '#'+Math.floor(Math.random()*16777215).toString(16);
